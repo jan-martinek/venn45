@@ -30,4 +30,4 @@ Based on code created by Lukáš Daněk, additional functionality added by Jan M
 
 ## License
 
-**MIT.** Use, copy, modify, merge, publish, distribute… and see [LICENSE][LICENSE] file.
+**MIT.** Use, copy, modify, merge, publish, distribute… and see [LICENSE](LICENSE) file.
